@@ -1,2 +1,23 @@
 Hello! Very excited about our new project!
 Me too! :)
+
+Meeting notes:
+
+stepfamily experience (more problem focused) - parents' perceptions of how difficult it is to live in a stepfamily
+simple descriptive tables
+how difficult do they experience?
+how does this differ across relationship type, the presnece of children, residence etc.?
+Ssome plots on how stepfamily experiences vary across stepfamilies
+
+it is not always easy to live in stepfamilies, we do not know how this differs across stepparents.
+Kirsten's Demos paper - streotypes about stepmothers --> AR wants a similar setting.
+
+Introdudction to Results, not so much on theory, more popular sceince 
+for Demos
+
+R and Dutch 
+
+module - A3T02
+
+Ece - Working on data in R
+Christian - Bullet points, some lit search
